@@ -15,12 +15,6 @@
 
 ---
 
-## 📊 Stats
-- 🏗 **42 repositories**
-- 🌱 **29 followers** (and counting!)
-- 📍 Based in Rwanda
-
----
 
 ## 🌟 Currently Working On
 - **Isooko** – Smart Water Management System (IoT + AI)
