@@ -13,12 +13,7 @@
 - Systems: Embedded Systems, C++
 - Tools: Git, VS Code, Figma
 
----
 
-## 📊 Stats
-- 🏗 **42 repositories**
-- 🌱 **29 followers** (and counting!)
-- 📍 Based in Rwanda
 
 ---
 
