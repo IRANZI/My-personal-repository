@@ -1,79 +1,170 @@
 <div align="center">
 
-# 👩‍💻 **IRANZI Dianah**  
-<span style="font-weight:300; font-size:18px; color:#5f6368;">Software Developer | Embedded Systems | Community Innovator</span>
+<style>
+  /* Dark blue background and white text for intro */
+  .intro-box {
+    background: #0a1f44;
+    padding: 25px 40px;
+    border-radius: 12px;
+    color: #d0e6ff;
+    max-width: 700px;
+    margin-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
 
-<br />
+  /* Animate glow for badges */
+  .glow-badge {
+    animation: glow 3s ease-in-out infinite alternate;
+    border-radius: 8px;
+  }
 
-<p style="max-width:600px; font-weight:400; font-size:16px; color:#3c4043;">
-🎓 Currently studying <b>Software Development & Embedded Systems</b>  
-🌍 Passionate about building tech for <b>real-world impact</b>  
-💡 Working on: <b>SCARS</b> – Smart Community Alert System with mesh networks + IoT  
-📍 Based in Rwanda  
-</p>
+  @keyframes glow {
+    0% { filter: drop-shadow(0 0 5px #3f88c5); }
+    100% { filter: drop-shadow(0 0 20px #6ea0ff); }
+  }
 
+  /* Language badges container inline and spaced */
+  .langs-container {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: nowrap;
+    margin-bottom: 30px;
+  }
+
+  /* Tech stack badges container */
+  .tech-section {
+    max-width: 720px;
+    margin: auto;
+  }
+
+  .tech-group {
+    margin-bottom: 20px;
+  }
+
+  .tech-group h3 {
+    color: #5a8bff;
+    margin-bottom: 8px;
+  }
+
+  .tech-badges {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .tech-badges img {
+    border-radius: 8px;
+    transition: filter 0.3s ease;
+  }
+
+  .tech-badges img:hover {
+    filter: drop-shadow(0 0 10px #5a8bff);
+  }
+
+  /* GitHub stats and contact section */
+  .stats-contact {
+    max-width: 700px;
+    margin: 40px auto 0;
+    color: #d0e6ff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  a {
+    color: #84a9ff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<div class="intro-box">
+
+# 👩‍💻 IRANZI Dianah  
+**Software Developer | Embedded Systems | Community Innovator**
+
+🎓 Studying Software Development & Embedded Systems  
+🌍 Passionate about building tech for **real-world impact**  
+💡 Currently working on: **SCARS** – a Smart Community Alert System powered by mesh networks + IoT  
+📍 Based in Rwanda
+
+</div>
+
+<div class="langs-container">
+  <img class="glow-badge" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img class="glow-badge" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img class="glow-badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img class="glow-badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img class="glow-badge" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+  <img class="glow-badge" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </div>
 
 ---
 
-## 🧠 Most Used Languages
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</div>
-
----
+<div class="tech-section">
 
 ## 🚀 Tech Stack
 
-<div align="center">
+<div class="tech-group">
+  <h3>🌐 Frontend</h3>
+  <div class="tech-badges">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </div>
+</div>
 
-### Frontend  
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)  
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+<div class="tech-group">
+  <h3>🛠️ Backend</h3>
+  <div class="tech-badges">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  </div>
+</div>
 
-### 🛠️ Backend  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+<div class="tech-group">
+  <h3>🗄️ Databases</h3>
+  <div class="tech-badges">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </div>
+</div>
 
-### 🗄️ Databases  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+<div class="tech-group">
+  <h3>📱 Mobile</h3>
+  <div class="tech-badges">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  </div>
+</div>
 
-### 📱 Mobile  
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-
-### 🌍 Hosting & DevOps  
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)  
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+<div class="tech-group">
+  <h3>🌍 Hosting & DevOps</h3>
+  <div class="tech-badges">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </div>
+</div>
 
 </div>
 
 ---
 
-<div align="center">
+<div class="stats-contact" align="center">
 
 ## 📊 GitHub Stats  
 
 ![Dianah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IRANZI&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRANZI&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📬 Get in Touch
 
-✉️ **Email:** [iradianah5@example.com](mailto:iradianah5@example.com)  
-🔗 **GitHub:** [github.com/IRANZI](https://github.com/IRANZI)
+📧 **Email:** <a href="mailto:iradianah5@example.com">iradianah5@example.com</a>  
+🌐 **GitHub:** <a href="https://github.com/IRANZI" target="_blank">github.com/dianah-iranzi</a>
 
 </div>
