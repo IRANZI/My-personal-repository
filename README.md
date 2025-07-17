@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #1a1a2e; color: #ffffff; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color: #1a1a2e; color: #ffffff; padding: 20px; border-radius: 10px; animation: fadeIn 1s ease-in-out;">
 
 # 👩‍💻 IRANZI Dianah  
 ### Software Developer | Embedded Systems | Community Innovator  
@@ -10,11 +10,24 @@
 
 </div>
 
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slideIn {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.stats-card { transition: transform 0.3s ease, box-shadow 0.3s ease; }
+.stats-card:hover { transform: scale(1.05); box-shadow: 0 0 15px rgba(97, 218, 251, 0.5); }
+</style>
+
 ---
 
 ## 🧠 Most Used Languages  
-<div align="center" style="font-size: 1.2rem; margin-bottom: 20px; background-color: #16213e; padding: 10px; border-radius: 5px;">
-
+<div align="center" style="font-size: 1.2rem; margin-bottom: 20px; background-color: #16213e; padding: 10px; border-radius: 5px; animation: slideIn 1s ease-out;">
+  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -28,7 +41,7 @@
 
 ## 🚀 Tech Stack
 
-<div align="center" style="background-color: #1a1a2e; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color: #1a1a2e; padding: 20px; border-radius: 10px; animation: fadeIn 1s ease-in-out;">
 
 ### Frontend  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
@@ -56,12 +69,26 @@
 
 ---
 
-<div align="center" style="background-color: #16213e; padding: 10px; border-radius: 5px;">
+<div align="center" class="stats-card" style="background-color: #16213e; padding: 20px; border-radius: 10px; animation: slideIn 1s ease-out;">
 
 ## 📊 GitHub Stats  
-Total Contributions: 1,173 (2 Oct 2023 - Present)  
-Current Streak: 3 days (14 Jul - 16 Jul)  
-Longest Streak: 19 days (19 Jan - 6 Feb)  
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 10px;">
+  <div style="text-align: center;">
+    <span style="color: #61dafb; font-size: 1.5rem;">1,173</span><br>
+    Total Contributions<br>
+    (2 Oct 2023 - Present)
+  </div>
+  <div style="text-align: center;">
+    <span style="color: #61dafb; font-size: 1.5rem;">3</span><br>
+    Current Streak<br>
+    (14 Jul - 16 Jul)
+  </div>
+  <div style="text-align: center;">
+    <span style="color: #61dafb; font-size: 1.5rem;">19</span><br>
+    Longest Streak<br>
+    (19 Jan - 6 Feb)
+  </div>
+</div>
 
 ![Dianah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IRANZI&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
 
