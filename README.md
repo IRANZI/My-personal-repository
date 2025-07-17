@@ -12,32 +12,29 @@ A passionate Frontend & Embedded Systems Developer
 ⚡ Fun fact: _I believe technology should serve people first_ 💚  
 
 ---
-
-## 🧠 Languages
-- **JavaScript / TypeScript**
-- **Python**
-- **C++**
-
----
-
-## 💻 Frontend
-- React
-- React Native
-- Next.js
-- Tailwind CSS
+## 🧠 Languages  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-## 🔧 Backend
-- Node.js (Basics)
-- Express.js (Learning)
-- Python (Flask – Beginner)
+## 💻 Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
-## 🗄️ Databases
-- MongoDB
-- Firebase (Learning)
+## 🛠️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+## 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
