@@ -1,12 +1,16 @@
 <div align="center">
 
-# 👩‍💻 IRANZI Dianah  
-**Software Developer | Embedded Systems | Community Innovator**
+# 👩‍💻 **IRANZI Dianah**  
+<span style="font-weight:300; font-size:18px; color:#5f6368;">Software Developer | Embedded Systems | Community Innovator</span>
 
-🎓 Studying Software Development & Embedded Systems  
-🌍 Passionate about building tech for **real-world impact**  
-💡 Currently working on: **SCARS** – a Smart Community Alert System powered by mesh networks + IoT  
-📍 Based in Rwanda
+<br />
+
+<p style="max-width:600px; font-weight:400; font-size:16px; color:#3c4043;">
+🎓 Currently studying <b>Software Development & Embedded Systems</b>  
+🌍 Passionate about building tech for <b>real-world impact</b>  
+💡 Working on: <b>SCARS</b> – Smart Community Alert System with mesh networks + IoT  
+📍 Based in Rwanda  
+</p>
 
 </div>
 
@@ -14,13 +18,13 @@
 
 ## 🧠 Most Used Languages
 
-<div align="left">
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
@@ -28,6 +32,8 @@
 ---
 
 ## 🚀 Tech Stack
+
+<div align="center">
 
 ### Frontend  
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
@@ -51,6 +57,8 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)  
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
+</div>
+
 ---
 
 <div align="center">
@@ -58,13 +66,14 @@
 ## 📊 GitHub Stats  
 
 ![Dianah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IRANZI&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRANZI&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📬 Get in Touch
 
-📧 **Email:** iradianah5@example.com  
-🌐 **GitHub:** [github.com/dianah-iranzi](https://github.com/IRANZI)
+✉️ **Email:** [iradianah5@example.com](mailto:iradianah5@example.com)  
+🔗 **GitHub:** [github.com/IRANZI](https://github.com/IRANZI)
 
 </div>
