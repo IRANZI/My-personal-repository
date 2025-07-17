@@ -83,8 +83,7 @@ A passionate Frontend & Embedded Systems Developer
 
 ## 📊 GitHub Stats
 
-<img width="579" height="237" alt="image" src="https://github.com/user-attachments/assets/5988ce3e-ea62-4677-94d0-861fd7cca9c7" />
-
+![IRANZI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IRANZI&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IRANZI&layout=compact&theme=tokyonight)
 
