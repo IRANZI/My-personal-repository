@@ -1,5 +1,3 @@
-<div align="center">
-
 <style>
   /* Dark blue background and white text for intro */
   .intro-box {
@@ -8,8 +6,9 @@
     border-radius: 12px;
     color: #d0e6ff;
     max-width: 700px;
-    margin-bottom: 30px;
+    margin: 30px auto;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
   }
 
   /* Animate glow for badges */
@@ -19,8 +18,12 @@
   }
 
   @keyframes glow {
-    0% { filter: drop-shadow(0 0 5px #3f88c5); }
-    100% { filter: drop-shadow(0 0 20px #6ea0ff); }
+    0% {
+      filter: drop-shadow(0 0 5px #3f88c5);
+    }
+    100% {
+      filter: drop-shadow(0 0 20px #6ea0ff);
+    }
   }
 
   /* Language badges container inline and spaced */
@@ -68,6 +71,7 @@
     margin: 40px auto 0;
     color: #d0e6ff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
   }
 
   a {
@@ -91,6 +95,10 @@
 📍 Based in Rwanda
 
 </div>
+
+---
+
+## 🧠 Most Used Languages
 
 <div class="langs-container">
   <img class="glow-badge" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -153,7 +161,7 @@
 
 ---
 
-<div class="stats-contact" align="center">
+<div class="stats-contact">
 
 ## 📊 GitHub Stats  
 
