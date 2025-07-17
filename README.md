@@ -49,15 +49,15 @@
 
 ## 📊 GitHub Stats  
 
-![Dianah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dianah-iranzi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianah-iranzi&layout=compact&theme=tokyonight&hide_border=true)
+![Dianah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IRANZI&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRANZI&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dianah-iranzi)  
-📧 **Email:** iranzidianah@example.com  
-🌐 **GitHub:** [github.com/dianah-iranzi](https://github.com/dianah-iranzi)
+
+📧 **Email:** iradianah5@example.com  
+🌐 **GitHub:** [github.com/dianah-iranzi](https://github.com/IRANZI)
 
 </div>
