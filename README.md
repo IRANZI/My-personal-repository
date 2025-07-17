@@ -1,93 +1,63 @@
- # 👋 Hi, I'm IRANZI Dianah  
-A passionate Frontend & Embedded Systems Developer
+<div align="center">
+
+# 👩‍💻 IRANZI Dianah  
+**Software Developer | Embedded Systems | Community Innovator**
+
+🎓 Studying Software Development & Embedded Systems  
+🌍 Passionate about building tech for **real-world impact**  
+💡 Currently working on: **SCARS** – a Smart Community Alert System powered by mesh networks + IoT  
+📍 Based in Rwanda
 
 ---
 
-## 🌟 About Me
+## 🧠 Most Used Languages
 
-🌱 Currently working on: **Smart Community Alert & Response System (SCARS)**  
-💡 Exploring ways to integrate **IoT, AI, and Web Technologies** for real-world impact  
-👯 Looking to collaborate on **user-centric web or embedded system projects**  
-💬 Ask me about **React**, **IoT**, or **community-driven innovations**  
-⚡ Fun fact: _I believe technology should serve people first_ 💚  
-
----
-## 🧠 Languages  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-## 💻 Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+## 🚀 Tech Stack
+
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+### 🛠️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-## 🛠️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
----
-
-## 🗄️ Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📱 Mobile  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🌍 Hosting & DevOps  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## ⚙️ Systems & Embedded
-- Arduino, ESP32
-- Sensors & Actuators Integration
-- C++ for microcontrollers
+## 📊 GitHub Stats  
+
+![Dianah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dianah-iranzi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianah-iranzi&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## ☁️ Cloud & Hosting
-- Render
-- Vercel
-- Netlify
+## 📬 Get in Touch
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dianah-iranzi)  
+📧 **Email:** iranzidianah@example.com  
+🌐 **GitHub:** [github.com/dianah-iranzi](https://github.com/dianah-iranzi)
 
-## ✅ Testing & Dev Tools
-- Postman
-- GitHub Actions (Basics)
-
----
-
-## 🔧 Version Control & CI/CD
-- Git & GitHub
-- GitHub Projects / Kanban Boards
-
----
-
-## 🛠️ Preferred IDEs & Tools
-- VS Code
-- Figma
-- Arduino IDE
-
----
-
-## 🌐 Connect with Me
-- 🔗 Portfolio: [dianah-portifolio.onrender.com](https://dianah-portifolio.onrender.com)  
-- 💌 Email: [iradianah5@example.com](mailto:iradianah5@example.com)  
-- 💼 LinkedIn: _Coming Soon_
-
----
-
-## 📊 GitHub Stats
-
-![IRANZI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IRANZI&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IRANZI&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IRANZI&theme=tokyonight)](https://git.io/streak-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=IRANZI&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-> _"Building tech that matters, one project at a time."_ 🌍
+</div>
