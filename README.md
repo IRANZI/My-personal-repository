@@ -1,7 +1,7 @@
-<div align="center">
+<div align="center" style="background-color: #1a1a2e; color: #ffffff; padding: 20px; border-radius: 10px;">
 
 # 👩‍💻 IRANZI Dianah  
-### Software Developer | Embedded Systems | Community Innovator
+### Software Developer | Embedded Systems | Community Innovator  
 
 🎓 Studying Software Development & Embedded Systems  
 🌍 Passionate about building tech for <b>real-world impact</b>  
@@ -13,14 +13,14 @@
 ---
 
 ## 🧠 Most Used Languages  
-<div align="center" style="font-size: 1.2rem; margin-bottom: 20px;">
+<div align="center" style="font-size: 1.2rem; margin-bottom: 20px; background-color: #16213e; padding: 10px; border-radius: 5px;">
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ## 🚀 Tech Stack
 
-<div align="center">
+<div align="center" style="background-color: #1a1a2e; padding: 20px; border-radius: 10px;">
 
 ### Frontend  
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
@@ -56,7 +56,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="background-color: #16213e; padding: 10px; border-radius: 5px;">
 
 ## 📊 GitHub Stats  
 
